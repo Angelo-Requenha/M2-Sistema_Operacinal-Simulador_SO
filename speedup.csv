@@ -1,0 +1,15 @@
+arquivo,sched,quantum,subst,quadros,custo_troca,tempo_fault,makespan_1cpu,makespan_4cpus,speedup,eficiencia
+cenario_A_t0.json,fcfs,,lru,256,1,20,61648,15680,3.9316,0.9829
+cenario_A_t0.json,rr,10,lru,256,1,20,62383,15799,3.9485,0.9871
+cenario_A_t0.json,rr,2,lru,256,1,20,71299,17892,3.9850,0.9962
+cenario_A_t0.json,rr,20,lru,256,1,20,61778,15668,3.9429,0.9857
+cenario_A_t0.json,rr,5,lru,256,1,20,64210,16209,3.9614,0.9903
+cenario_A_t0.json,rr,50,lru,256,1,20,61643,15639,3.9416,0.9854
+cenario_A_t0.json,sjf,,lru,256,1,20,49334,13043,3.7824,0.9456
+cenario_B_espacadas.json,fcfs,,lru,256,1,20,60954,12154,5.0151,1.2538
+cenario_B_espacadas.json,rr,10,lru,256,1,20,61713,12549,4.9178,1.2294
+cenario_B_espacadas.json,rr,2,lru,256,1,20,71090,16630,4.2748,1.0687
+cenario_B_espacadas.json,rr,20,lru,256,1,20,61035,12324,4.9525,1.2381
+cenario_B_espacadas.json,rr,5,lru,256,1,20,63468,13442,4.7216,1.1804
+cenario_B_espacadas.json,rr,50,lru,256,1,20,60933,12176,5.0044,1.2511
+cenario_B_espacadas.json,sjf,,lru,256,1,20,48755,12368,3.9420,0.9855
